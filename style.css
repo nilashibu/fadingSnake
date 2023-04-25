@@ -9,7 +9,7 @@ body {
   --color: black;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: var(--color);
-  background-color: #ff8585;
+  background-color: #75a0f0;
   background: linear-gradient(
     162deg,
     rgba(255, 133, 133, 1) 0%,
